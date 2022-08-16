@@ -9,3 +9,5 @@ spec:
     - protocol: TCP
       port: 11130
   type: LoadBalancer
+  externalIPs:
+  - 34.125.36.204
