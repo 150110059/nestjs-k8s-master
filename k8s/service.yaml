@@ -10,4 +10,4 @@ spec:
       port: 11130
   type: LoadBalancer
   externalIPs:
-  - 34.125.36.204
+  - 192.168.0.10
