@@ -16,4 +16,4 @@ spec:
         - name: nestjs-k8s
           image: docker344356/nestjs-k8s:latest
           ports:
-            - containerPort: 5000
+            - containerPort: 11130
