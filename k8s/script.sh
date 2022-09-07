@@ -13,3 +13,4 @@ kubectl apply -f deployment.yaml
 kubectl apply -f service.yaml
 kubectl get pods
 kubectl get svc
+curl -o out.json http://34.122.221.246:11130/
